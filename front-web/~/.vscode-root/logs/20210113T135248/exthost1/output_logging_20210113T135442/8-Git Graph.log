@@ -1,0 +1,8 @@
+[2021-01-13 13:54:42.188] Starting Git Graph ...
+[2021-01-13 13:54:43.236] Using git (version: 2.25.1)
+[2021-01-13 13:54:43.284] Started Git Graph - Ready to use!
+[2021-01-13 13:54:43.322] Searching workspace for new repos ...
+[2021-01-13 13:54:43.389] > git rev-parse --show-toplevel
+[2021-01-13 13:55:33.066] Added new repo: /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver
+[2021-01-13 13:55:42.850] Completed searching workspace for new repos
+[2021-01-13 13:55:42.850] Showing "Git Graph" Status Bar Item

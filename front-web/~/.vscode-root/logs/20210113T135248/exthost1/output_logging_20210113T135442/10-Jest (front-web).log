@@ -1,0 +1,27 @@
+
+> front-web@0.1.0 test /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web
+> react-scripts test "--testLocationInResults" "--json" "--useStderr" "--outputFile" "/tmp/jest_runner_front_web.json" "--no-coverage" "--no-color" "--reporters" "default" "--reporters" "/root/.vscode/extensions/orta.vscode-jest-3.2.0/out/reporter.js"
+
+
+No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web
+  5 files checked.
+  testMatch: /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/**/__tests__/**/*.{js,jsx,ts,tsx}, /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/**/*.{spec,test}.{js,jsx,ts,tsx} - 0 matches
+  testPathIgnorePatterns: /node_modules/ - 5 matches
+  testRegex:  - 0 matches
+Pattern:  - 0 matches
+npm ERR! Test failed.  See above for more details.
+
+Finished running all tests. Starting watch mode.
+
+> front-web@0.1.0 test /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web
+> react-scripts test "--testLocationInResults" "--json" "--useStderr" "--outputFile" "/tmp/jest_runner_front_web.json" "--watch" "--no-coverage" "--no-color" "--reporters" "default" "--reporters" "/root/.vscode/extensions/orta.vscode-jest-3.2.0/out/reporter.js"
+
+
+No tests found related to files changed since last commit.
+
+
+
+No tests found related to files changed since last commit.
+

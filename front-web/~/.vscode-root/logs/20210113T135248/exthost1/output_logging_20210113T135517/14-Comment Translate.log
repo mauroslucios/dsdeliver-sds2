@@ -1,0 +1,36 @@
+/snap/code/52/usr/share/code/resources/app
+(node:3432) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'value' of undefined
+    at Comment.setSetting (/root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/Comment.js:33:118)
+    at /root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/server.js:55:13
+    at Generator.next (<anonymous>)
+    at fulfilled (/root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/server.js:9:58)
+(node:3432) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:3432) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:3432) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'value' of undefined
+    at Comment.setSetting (/root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/Comment.js:33:118)
+    at /root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/server.js:59:13
+    at Generator.next (<anonymous>)
+    at fulfilled (/root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/server.js:9:58)
+(node:3432) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:3432) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'value' of undefined
+    at Comment.setSetting (/root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/Comment.js:33:118)
+    at /root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/server.js:59:13
+    at Generator.next (<anonymous>)
+    at fulfilled (/root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/server.js:9:58)
+(node:3432) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:3432) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'value' of undefined
+    at Comment.setSetting (/root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/Comment.js:33:118)
+    at /root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/server.js:59:13
+    at Generator.next (<anonymous>)
+    at fulfilled (/root/.vscode/extensions/funkyremi.vscode-google-translate-1.4.12/server/out/server.js:9:58)
+(node:3432) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:3432) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[Error - 14:04:11] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Request failed with status code 403
+  Code: -32603 
+[Error - 14:05:20] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Request failed with status code 403
+  Code: -32603 
+[Error - 14:06:20] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Request failed with status code 403
+  Code: -32603 
