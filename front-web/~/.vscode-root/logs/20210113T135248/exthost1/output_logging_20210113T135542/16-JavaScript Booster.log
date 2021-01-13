@@ -99,3 +99,87 @@
 2021-01-13T18:57:27.554Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Footer/index.tsx.
 2021-01-13T19:12:19.287Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Footer/index.tsx (15:17).
 2021-01-13T19:12:21.594Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Footer/index.tsx.
+2021-01-13T19:17:02.699Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (1:6).
+2021-01-13T19:17:05.734Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx.
+2021-01-13T19:17:20.276Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (3:15).
+2021-01-13T19:17:23.289Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx.
+2021-01-13T19:17:48.527Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (5:12).
+2021-01-13T19:17:53.603Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx.
+2021-01-13T19:18:43.470Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (12:14).
+2021-01-13T19:18:45.428Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx.
+2021-01-13T19:56:29.986Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (1:15).
+2021-01-13T19:56:33.341Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T19:57:00.680Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (3:12).
+2021-01-13T19:57:05.997Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (5:4).
+2021-01-13T19:57:08.103Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (7:4).
+2021-01-13T19:57:11.469Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T19:57:25.885Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T19:58:13.932Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (8:8).
+2021-01-13T19:58:15.637Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (8:8).
+2021-01-13T19:58:18.640Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (8:8).
+2021-01-13T19:58:20.742Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T19:58:46.822Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (9:12).
+2021-01-13T19:58:50.650Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (9:12).
+2021-01-13T19:58:52.520Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T19:59:06.039Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (8:27).
+2021-01-13T19:59:07.727Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T19:59:31.028Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (10:16).
+2021-01-13T19:59:32.742Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (11:16).
+2021-01-13T19:59:35.991Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T20:00:15.789Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (11:12).
+2021-01-13T20:00:21.535Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (11:12).
+2021-01-13T20:00:27.171Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (11:12).
+2021-01-13T20:00:31.005Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T20:00:33.967Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (10:33).
+2021-01-13T20:00:36.817Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (10:36).
+2021-01-13T20:00:56.761Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T20:00:58.726Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (10:38).
+2021-01-13T20:01:01.058Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (11:12).
+2021-01-13T20:01:11.465Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T20:01:26.764Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (10:36).
+2021-01-13T20:01:29.306Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (10:38).
+2021-01-13T20:01:32.500Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (10:37).
+2021-01-13T20:01:36.251Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T20:01:44.462Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (10:37).
+2021-01-13T20:01:46.990Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (10:38).
+2021-01-13T20:01:49.296Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T20:01:57.137Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (5:0).
+2021-01-13T20:02:00.436Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (5:0).
+2021-01-13T20:02:03.780Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T20:07:26.462Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Navbar/index.tsx.
+2021-01-13T20:08:24.788Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/App.tsx (10:4).
+2021-01-13T20:08:33.547Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/App.tsx.
+2021-01-13T20:09:10.766Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (10:12).
+2021-01-13T20:09:14.645Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T20:09:20.160Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx (15:24).
+2021-01-13T20:09:22.574Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx.
+2021-01-13T20:10:55.226Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Home/index.tsx (18:30).
+2021-01-13T20:10:57.359Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Home/index.tsx.
+2021-01-13T20:11:05.689Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Home/index.tsx.
+2021-01-13T20:13:29.959Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx (1:6).
+2021-01-13T20:13:32.455Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx.
+2021-01-13T20:13:49.935Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx (3:12).
+2021-01-13T20:13:52.176Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx (3:14).
+2021-01-13T20:13:56.042Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx (3:20).
+2021-01-13T20:13:58.717Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx.
+2021-01-13T20:14:06.829Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx (7:14).
+2021-01-13T20:14:09.412Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx.
+2021-01-13T20:14:22.390Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx (5:11).
+2021-01-13T20:14:28.314Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx.
+2021-01-13T20:14:53.406Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx.
+2021-01-13T20:16:16.682Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx (10:16).
+2021-01-13T20:16:25.121Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx (10:16).
+2021-01-13T20:16:27.273Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx.
+2021-01-13T20:17:07.539Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx.
+2021-01-13T20:17:28.854Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (8:8).
+2021-01-13T20:17:31.022Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (8:8).
+2021-01-13T20:17:58.912Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (8:8).
+2021-01-13T20:18:01.487Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (8:8).
+2021-01-13T20:18:04.550Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx.
+2021-01-13T20:18:18.956Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (4:0).
+2021-01-13T20:18:22.307Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx.
+2021-01-13T20:20:53.558Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (1:7).
+2021-01-13T20:20:55.368Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx.
+2021-01-13T20:24:01.125Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx.
+2021-01-13T20:26:56.308Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx (17:22).
+2021-01-13T20:26:59.876Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx.

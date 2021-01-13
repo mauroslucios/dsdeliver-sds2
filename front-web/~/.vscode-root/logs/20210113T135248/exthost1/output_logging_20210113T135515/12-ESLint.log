@@ -8,3 +8,13 @@
 [Info  - 15:43:25] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/App.tsx:5
 [Info  - 15:43:30] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/App.tsx:5
 [Info  - 15:43:31] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/App.tsx:5
+[Info  - 17:01:55] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx:3
+[Info  - 17:01:56] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx:3
+[Info  - 17:02:00] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx:3
+[Info  - 17:02:01] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Routes.tsx:3
+[Info  - 17:18:09] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx:2
+[Info  - 17:18:09] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx:2
+[Info  - 17:18:19] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx:2
+[Info  - 17:18:19] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx:2
+[Info  - 17:22:36] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx:1
+[Info  - 17:22:37] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx:1
