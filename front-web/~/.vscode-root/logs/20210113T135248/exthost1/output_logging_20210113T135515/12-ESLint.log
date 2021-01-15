@@ -18,3 +18,9 @@
 [Info  - 17:18:19] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx:2
 [Info  - 17:22:36] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx:1
 [Info  - 17:22:37] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx:1
+[Info  - 17:53:57] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx:3
+[Info  - 17:53:58] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx:3
+[Info  - 17:53:58] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx:3
+[Info  - 17:54:11] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx:3
+[Info  - 17:54:11] Cannot read property 'indexOf' of undefined Occurred while linting /home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx:3
+[Info  - 21:09:04] ESLint server stopped.

@@ -457,3 +457,18 @@
 [Error - 17:25:54] Request textDocument/hover failed.
   Message: Request textDocument/hover failed with message: Request failed with status code 403
   Code: -32603 
+[Error - 17:54:45] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Request failed with status code 403
+  Code: -32603 
+[Error - 17:54:46] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Request failed with status code 403
+  Code: -32603 
+[Error - 17:54:46] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Request failed with status code 403
+  Code: -32603 
+[Error - 17:55:57] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Request failed with status code 403
+  Code: -32603 
+[Error - 17:56:03] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Request failed with status code 403
+  Code: -32603 

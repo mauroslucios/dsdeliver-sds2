@@ -90,13 +90,11 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save",
-                        "enabled": false
+                        "label": "&&Save"
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "workbench.action.files.saveAll",
@@ -164,13 +162,11 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor",
-                        "enabled": false
+                        "label": "&&Close Editor"
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -219,13 +215,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1443,11 +1437,11 @@
             "folder": "file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web",
             "backupPath": "/home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/~/.vscode-root/Backups/43d4883929974e4714e585d2faeaeac5",
             "uiState": {
-                "mode": 0,
-                "x": 328,
-                "y": 178,
-                "width": 1024,
-                "height": 768
+                "mode": 1,
+                "x": 72,
+                "y": 64,
+                "width": 1608,
+                "height": 986
             }
         },
         "openedWindows": []

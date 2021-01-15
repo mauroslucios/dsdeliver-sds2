@@ -183,3 +183,42 @@
 2021-01-13T20:24:01.125Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx.
 2021-01-13T20:26:56.308Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx (17:22).
 2021-01-13T20:26:59.876Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/StepsHeader.tsx.
+2021-01-13T20:50:32.619Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx (1:8).
+2021-01-13T20:50:34.922Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx (1:10).
+2021-01-13T20:50:36.439Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx (1:17).
+2021-01-13T20:50:40.577Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx (1:21).
+2021-01-13T20:50:42.856Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx.
+2021-01-13T20:50:50.869Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx (2:12).
+2021-01-13T20:51:10.358Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx (4:4).
+2021-01-13T20:51:12.420Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx.
+2021-01-13T20:51:16.915Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx (4:4).
+2021-01-13T20:51:19.246Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx (4:4).
+2021-01-13T20:51:20.901Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx.
+2021-01-13T20:53:40.900Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (10:8).
+2021-01-13T20:53:42.629Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (10:8).
+2021-01-13T20:53:48.304Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (10:8).
+2021-01-13T20:53:54.735Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx.
+2021-01-13T20:54:01.866Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (5:0).
+2021-01-13T20:54:04.697Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (5:0).
+2021-01-13T20:54:07.822Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (5:0).
+2021-01-13T20:54:10.153Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx (5:0).
+2021-01-13T20:54:13.524Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/index.tsx.
+2021-01-13T20:55:02.553Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx (11:7).
+2021-01-13T20:55:10.318Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx (11:14).
+2021-01-13T20:55:11.985Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/ProductsList.tsx.
+2021-01-13T20:57:49.309Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (1:8).
+2021-01-13T20:57:52.919Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (1:14).
+2021-01-13T20:57:58.757Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (1:20).
+2021-01-13T20:58:00.824Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx.
+2021-01-13T20:58:07.795Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (2:12).
+2021-01-13T20:58:28.509Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (4:4).
+2021-01-13T20:58:30.175Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (4:4).
+2021-01-13T20:58:33.624Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (4:4).
+2021-01-13T20:58:36.384Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (4:4).
+2021-01-13T20:58:39.168Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (4:4).
+2021-01-13T20:58:40.669Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (4:4).
+2021-01-13T20:58:45.025Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (4:4).
+2021-01-13T20:58:49.876Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (4:4).
+2021-01-13T20:58:54.407Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx.
+2021-01-13T20:59:09.583Z: Syntax error in file file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx (4:4).
+2021-01-13T20:59:14.006Z: File now valid: file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver/front-web/src/Orders/Productcard.tsx.
