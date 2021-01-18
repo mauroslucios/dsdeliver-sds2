@@ -21,4 +21,4 @@ Projeto craido durante o evento "Semana Dev Superior 2"
 
 > Homepage
 
-![](https://github.com/mauroslucios/dsdeliver-sds2/blob/main/dsDelivery.JPG)
+![dsDelivery](https://user-images.githubusercontent.com/671694/104956398-cdfaa500-59aa-11eb-99b4-f4ea4daf59f7.JPG)
