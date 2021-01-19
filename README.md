@@ -1,7 +1,7 @@
 # dsdeliver-sds2
-Semana devsuperior 2
+Semana devSuperior 2
 
-Projeto craido durante o evento "Semana Dev Superior 2"
+Projeto criado durante o evento "Semana Dev Superior 2"
 
 # Tecnologias utilizadas
 
@@ -12,13 +12,14 @@ Projeto craido durante o evento "Semana Dev Superior 2"
 - Postgres como banco de dados para produção
 - Heroku como servidor web
 - Git Hub como repositório de códigos
+- Netlify como hospedagem web
 - Visual Studio Code como Editor de código para o front-end
 - Figma Online para criação do layout
 - React como tecnologia de front-end
 - Npm como gerenciador de pacotes
 
 
-###Images
+#Images
 
 > Homepage
 
