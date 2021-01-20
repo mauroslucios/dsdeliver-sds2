@@ -3,7 +3,7 @@ Semana devSuperior 2
 
 Projeto criado durante o evento "Semana Dev Superior 2"
 
-# Tecnologias utilizadas
+# Tecnologias utilizadas:
 
 - Java para Back-end
 - Spring Boot Tools Suite como IDE
@@ -19,7 +19,23 @@ Projeto criado durante o evento "Semana Dev Superior 2"
 - Npm como gerenciador de pacotes
 
 
-#Images
+# Instalações de requerimentos:
+
+- npx create-react-app front-web --template typescript --use-npm
+- npm install axios
+- npm install leaflet react-leaflet
+- npm install -d @types/leaflet
+
+
+# Deploy heroku (ubuntu 20.04)
+- sudo snap install heroku --classic
+- heroku login
+- heroku git:remote -a "nome-app"
+- git remote -v
+- git subtree push --prefix backend heroku main
+
+
+# Imagem
 
 > Homepage
 
