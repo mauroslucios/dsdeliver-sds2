@@ -17,6 +17,9 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.devsuperiror.dsdeliver.dto.OrderDTO;
 import com.devsuperiror.dsdeliver.services.OrderService;
 
+import io.swagger.annotations.ApiResponse;
+import io.swagger.annotations.ApiResponses;
+
 @RestController
 @RequestMapping(value = "/orders")
 public class OrderController {
@@ -24,6 +27,11 @@ public class OrderController {
 	@Autowired
 	private OrderService service;
 
+	@ApiResponses(value = {
+		    @ApiResponse(code = 200, message = "Retorna a lista de Orders"),
+		    @ApiResponse(code = 403, message = "Você não tem permissão para acessar este recurso"),
+		    @ApiResponse(code = 500, message = "Foi gerada uma exceção"),
+		})
 	@GetMapping
 	public ResponseEntity<List<OrderDTO>> findAll(){
 		List<OrderDTO> list = service.findAll();
