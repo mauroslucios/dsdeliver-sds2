@@ -24,7 +24,8 @@ const styles = StyleSheet.create({
         lineHeight:25,
         letterSpacing: - 0.24,
         color:'#FFF',
-        marginLeft: 15
+        marginLeft: 15,
+        fontFamily: 'OpenSans_700Bold'
     }
 });
 export default Header;
