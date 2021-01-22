@@ -1,23 +1,41 @@
+import { useIsFocused, useNavigation } from '@react-navigation/native';
 import React, { useEffect, useState } from 'react';
 import { StyleSheet, ScrollView, Alert, Text, Image } from 'react-native';
 import { TouchableWithoutFeedback } from 'react-native-gesture-handler';
-import fetchOrders from '../api';
+import { fetchOrders } from '../api';
 import Header from '../Header';
 import OrderCard from '../OrderCard';
 import { Order } from '../types';
 
 
-function Orders() {
-  const [orders, setorders] = useState<Order[]>([]);
-  const [isLoading, setIsLoading] = useState(false);
 
-  useEffect(() => {
+function Orders() {
+  const [orders, setOrders] = useState<Order[]>([]);
+  const [isLoading, setIsLoading] = useState(false);
+  const navigation = useNavigation();
+  const isFocused = useIsFocused();
+
+  const fetchData = () => {
     setIsLoading(true);
     fetchOrders()
-      .then(response => setorders(response.data))
+      .then(response => setOrders(response.data))
       .catch(() => Alert.alert('Houve erro ao buscar os pedidos!'))
       .finally(() => setIsLoading(false));
-  }, []);
+  }
+
+  useEffect(() => {
+    if(isFocused){
+      fetchData();
+    }
+  }, [isFocused]);
+
+
+  const handleOnPress = (order: Order) => {
+    navigation.navigate('OrderDetails', {
+      order
+    });
+  }
+
 
   return (
     <>
@@ -25,13 +43,13 @@ function Orders() {
       <ScrollView style={styles.container}>
         {isLoading ? (
           <>
-          
-          <Image style={styles.loadingImage} source={require('../assets/loading.gif')}/>
-          <Text style={styles.loadingText}>Carregando pedidos...</Text>
+
+            <Image style={styles.loadingImage} source={require('../assets/loading.gif')} />
+            <Text style={styles.loadingText}>Carregando pedidos...</Text>
           </>
-          ) : (
+        ) : (
             orders.map(order => (
-              <TouchableWithoutFeedback key={order.id}>
+              <TouchableWithoutFeedback key={order.id} onPress={() => handleOnPress(order)}>
                 <OrderCard order={order} />
               </TouchableWithoutFeedback>
             ))
@@ -49,15 +67,15 @@ const styles = StyleSheet.create({
   },
   loadingImage: {
     marginTop: '50%',
-    marginLeft:'25%'
+    marginLeft: '25%'
   },
-  loadingText:{
+  loadingText: {
     color: '#263238',
     fontSize: 20,
     lineHeight: 35,
     fontWeight: 'normal',
-    marginTop:'-15%',
-    marginLeft:'25%'
+    marginTop: '-15%',
+    marginLeft: '25%'
   }
 });
 export default Orders;
