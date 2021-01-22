@@ -16,7 +16,10 @@ Projeto criado durante o evento "Semana Dev Superior 2"
 - Visual Studio Code como Editor de código para o front-end
 - Figma Online para criação do layout
 - React como tecnologia de front-end
+- React native como mobile
 - Npm como gerenciador de pacotes
+- Axios cliente HTTP
+- Expo Development Client · for Android & iOS
 
 
 # Instalações de requerimentos:

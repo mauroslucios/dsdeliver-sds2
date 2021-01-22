@@ -4,7 +4,9 @@
         "workspaces3": [
             "file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver-sds2/front-mobile"
         ],
-        "files2": []
+        "files2": [
+            "file:///home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver-sds2/README.md"
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -56,6 +58,19 @@
                                     },
                                     "enabled": true,
                                     "label": "/home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver-sds2/front-mobile"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver-sds2/README.md",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver-sds2/README.md"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1460,5 +1475,6 @@
             }
         },
         "openedWindows": []
-    }
+    },
+    "pickerWorkingDir": "/home/estudos/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/dsdeliver-sds2"
 }
