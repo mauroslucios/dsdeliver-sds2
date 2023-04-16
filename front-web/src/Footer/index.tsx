@@ -6,7 +6,7 @@ import { ReactComponent as LinkedinIcon } from './img/linkedin.svg';
 function Footer(){
     return(
         <footer className="main-footer">
-            <h3>App desenvolvido durante a 2º edição do evento Semana DevSuuperior 2</h3>
+            <h3>App desenvolvido durante a 2º edição do evento Semana DevSuperior 2</h3>
             <div className="footer-icons">
                     <a href="https://www.instagran.com/luciospsilva" target="_new"><InstagranIcon/></a>
                     <a href="https:www.youtube.com/channel/UCFUC1CjoLr7PTFVMRAbLkiw" target="_new"><YoutubeIcon/></a>
